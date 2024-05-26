@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Permissions</string>
+    <string name="send_sms">SMS යැවීම</string>
+    <string name="send_call">CALL යැවීම</string>
+    <string name="web_view">වෙබ් දසුන</string>
+    <string name="send_email">මේල් යැවීම</string>
+    <string name="open_share">ශෙයාර් කිරීම</string>
+</resources>

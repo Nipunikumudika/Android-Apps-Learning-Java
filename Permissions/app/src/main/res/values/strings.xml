@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Permissions</string>
+    <string name="android_permissions">Android Permissions</string>
+    <string name="send_sms">SEND SMS</string>
+    <string name="send_call">SEND CALL</string>
+    <string name="web_view">WEB VIEW</string>
+    <string name="send_email">SEND EMAIL</string>
+    <string name="open_share">OPEN SHARE</string>
+</resources>
