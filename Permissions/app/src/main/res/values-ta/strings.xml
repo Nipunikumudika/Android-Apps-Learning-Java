@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Permissions</string>
+    <string name="send_sms">SMS அனுப்பு</string>
+    <string name="send_call">அழைப்பை அனுப்பு</string>
+    <string name="web_view">"இணையக் காட்சி "</string>
+    <string name="send_email">" மின்னஞ்சல் அனுப்பு"</string>
+    <string name="open_share">" பகிரவும்"</string>
+</resources>

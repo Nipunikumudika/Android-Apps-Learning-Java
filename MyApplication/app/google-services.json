@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343344694820",
+    "project_id": "my-application-d59af",
+    "storage_bucket": "my-application-d59af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343344694820:android:972ab09510314f532c3ab1",
+        "android_client_info": {
+          "package_name": "com.nipuni.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343344694820-m79nlt6jn2lpbhldb28dgrubc97i9hg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-5W8io-AKSeWKbMe0ZdMvD4CF0E85GzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343344694820-m79nlt6jn2lpbhldb28dgrubc97i9hg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
